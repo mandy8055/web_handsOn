@@ -1,4 +1,4 @@
-// DOM Element
+// DOM Elements
 const quoteContainer = document.getElementById('quote-container');
 const quoteText = document.getElementById('quote');
 const authorText = document.getElementById('author');
@@ -8,20 +8,19 @@ const loaderSpinner = document.getElementById('loader');
 
 let apiQuotes = [];
 
-// Show loading
-function loading() {
+function showLoadingSpinner() {
   loaderSpinner.hidden = false;
   quoteContainer.hidden = true;
 }
-// Hide loading
-function complete() {
+
+function hideLoadingSpinner() {
   loaderSpinner.hidden = true;
   quoteContainer.hidden = false;
 }
 
 // Show new Quote
 function newQuote() {
-  loading();
+  showLoadingSpinner();
   // get random Index from a list of apiQuotes
   const randomIndex = Math.floor(Math.random() * apiQuotes.length) - 1;
   const { text, author } = apiQuotes[randomIndex];
@@ -32,11 +31,11 @@ function newQuote() {
     : quoteText.classList.remove('long-text');
   // Set the Quote and hide the loader.
   quoteText.textContent = text;
-  complete();
+  hideLoadingSpinner();
 }
 // Get the quotes from an API
 async function getQuotes() {
-  loading();
+  showLoadingSpinner();
   const API_URL = 'https://type.fit/api/quotes';
   try {
     const res = await fetch(API_URL);
