@@ -32,6 +32,19 @@
   - **[VoiceRSS TTS API](https://www.voicerss.org/api/)**
   - **[Joke API](https://sv443.net/jokeapi/v2/)**
 
+## Project 5 (Light and Dark Mode)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/light-dark-mode/index.html)**
+- Blogs on designing light and dark mode
+  - **[Choosing colors](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)**
+  - **[Guide on light and dark mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)**
+- fonts:
+  - **[Oswald for nav](https://fonts.google.com/specimen/Oswald)**
+  - **[Comfortaa for body](https://fonts.google.com/specimen/Comfortaa)**
+  - **[Kaushan Script for h1 titles](https://fonts.google.com/specimen/Kaushan+Script)**
+- Illustrations: **[Undraw](https://undraw.co/illustrations)**
+- Pending: **Responsiveness**
+
 # Key Learnings
 
 ## HTML
@@ -53,6 +66,12 @@
 - What does `outline: none` property does?
 - Giving button a 3-d effect?
   - [Reference](https://github.com/mandy8055/web_handsOn/blob/main/picture-in-picture/style.css)
+- Understanding CSS variables and `:root` pseudoclass
+  - [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+  - [Blog](https://css-tricks.com/a-complete-guide-to-custom-properties/)
+- Using `scroll-behavior` property to implement smooth scroll.
+- Making a custom toggle switch
+  - [Blog](https://www.w3schools.com/howto/howto_css_switch.asp)
 
 ## Javascript
 
@@ -62,6 +81,8 @@
   - [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
 - How to ignore Prettier extension from auto-formatting a specific part of code?
   - [Prettier Docs](https://prettier.io/docs/en/ignore.html)
+- Complete guide to local storage
+  - [Blog](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
 
 # To Do list
 
@@ -76,8 +97,11 @@
 - [ ] `transform` property
 - [ ] `box-shadow` property
 - [ ] Animations is CSS.
+- [x] ~~CSS variables.~~
 
 ## Javascript
 
 - [ ] `innerText` vs `textContent`
 - [ ] `classList`
+- [ ] `document.documentElement`
+- [ ] `children` property
