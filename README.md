@@ -45,6 +45,11 @@
 - Illustrations: **[Undraw](https://undraw.co/illustrations)**
 - Pending: **Responsiveness**
 
+## Project 6 (Animation Template)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/animated-template/index.html)**
+- Third Party Library: **[Animate-On-Scroll](https://michalsnik.github.io/aos/)**
+
 # Key Learnings
 
 ## HTML
@@ -54,6 +59,8 @@
   - [Blog](https://css-tricks.com/favicons-next-to-external-links/)
 - Creating quick loader spinners.
   - [Blog](https://www.w3schools.com/howto/howto_css_loader.asp)
+- Using a random template to customize and design website.
+- Using third-party library in order to provide animations.
 
 ## CSS
 
@@ -83,6 +90,10 @@
   - [Prettier Docs](https://prettier.io/docs/en/ignore.html)
 - Complete guide to local storage
   - [Blog](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
+- How to load third-party scripts efficiently.
+  - [Blog](https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/)
+- Async vs differ
+  - [Blog](https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/#use-async-or-defer)
 
 # To Do list
 
@@ -105,3 +116,4 @@
 - [ ] `classList`
 - [ ] `document.documentElement`
 - [ ] `children` property
+- [x] ~~async vs differ~~
