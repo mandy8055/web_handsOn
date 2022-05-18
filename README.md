@@ -2,7 +2,7 @@
 
 ## Project 1 (Quote Generator)
 
-- <a href="https://mandy8055.github.io/web_handsOn/quote-generator/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- <a href="https://mandy8055.github.io/web_handsOn/quote-generator/index.html" target="_blank">LIVE_DEMO</a>
 - font: **[Montserrat](https://fonts.google.com/specimen/Montserrat?query=montser)**
 - SVG Backgrounds: **[Hero Patterns](https://heropatterns.com/)**
 - API Info:
