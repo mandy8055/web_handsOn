@@ -2,7 +2,7 @@
 
 ## Project 1 (Quote Generator)
 
-- <a href="https://mandy8055.github.io/web_handsOn/quote-generator/index.html" target="_blank">LIVE_DEMO</a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/quote-generator/index.html)**
 - font: **[Montserrat](https://fonts.google.com/specimen/Montserrat?query=montser)**
 - SVG Backgrounds: **[Hero Patterns](https://heropatterns.com/)**
 - API Info:
@@ -12,7 +12,7 @@
 
 ## Project 2 (Infinite Scroll)
 
-- <a href="https://mandy8055.github.io/web_handsOn/infinite-scroll/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/infinite-scroll/index.html)**
 - font: **[Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue?query=Bebas)**
 - SVG Loader: **[LoadingIO](https://loading.io/)**
 - API Info: **[Unsplash](https://unsplash.com/documentation)**
@@ -20,13 +20,13 @@
 
 ## Project 3 (Picture-In-Picture)
 
-- <a href="https://mandy8055.github.io/web_handsOn/picture-in-picture/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/picture-in-picture/index.html)**
 - font: **[Barlow](https://fonts.google.com/specimen/Barlow)**
 - Latest in ES standard: **[tc39 proposals](https://github.com/tc39/proposals)**
 
 ## Project 4 (Joke Teller Bot)
 
-- <a href="https://mandy8055.github.io/web_handsOn/joke-teller-bot/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/joke-teller-bot/index.html)**
 - font: default (Courier New)
 - API info:
   - **[VoiceRSS TTS API](https://www.voicerss.org/api/)**
@@ -34,7 +34,7 @@
 
 ## Project 5 (Light and Dark Mode)
 
-- <a href="https://mandy8055.github.io/web_handsOn/light-dark-mode/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/light-dark-mode/index.html)**
 - Blogs on designing light and dark mode
   - **[Choosing colors](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)**
   - **[Guide on light and dark mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)**
@@ -47,12 +47,12 @@
 
 ## Project 6 (Animation Template)
 
-- <a href="https://mandy8055.github.io/web_handsOn/animated-template/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/animated-template/index.html)**
 - Third Party Library: **[Animate-On-Scroll](https://michalsnik.github.io/aos/)**
 
 ## Project 7 (Navigation Nation)
 
-- <a href="https://mandy8055.github.io/web_handsOn/navigation-nation/index.html" target="_blank"><strong>LIVE_DEMO</strong></a>
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/navigation-nation/index.html)**
 - font: **[Nunito](https://fonts.google.com/specimen/Nunito?query=Nunito)**
 - Menu hamburger: **[w3Resource](https://www.w3schools.com/howto/howto_css_menu_icon.asp)**
 
