@@ -50,6 +50,12 @@
 - **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/animated-template/index.html)**
 - Third Party Library: **[Animate-On-Scroll](https://michalsnik.github.io/aos/)**
 
+## Project 7 (Navigation Nation)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/navigation-nation/index.html)**
+- font: **[Nunito](https://fonts.google.com/specimen/Nunito?query=Nunito)**
+- Menu hamburger: **[w3Resource](https://www.w3schools.com/howto/howto_css_menu_icon.asp)**
+
 # Key Learnings
 
 ## HTML
