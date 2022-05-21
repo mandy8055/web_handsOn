@@ -56,6 +56,11 @@
 - font: **[Nunito](https://fonts.google.com/specimen/Nunito?query=Nunito)**
 - Menu hamburger: **[w3Resource](https://www.w3schools.com/howto/howto_css_menu_icon.asp)**
 
+## Project 8 (Music Player)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/music-player/index.html)**
+- font: **[League Spartan](https://fonts.google.com/specimen/League+Spartan)**
+
 # Key Learnings
 
 ## HTML
@@ -115,6 +120,8 @@
 - [ ] `box-shadow` property
 - [ ] Animations is CSS.
 - [x] ~~CSS variables.~~
+- [ ] object-fit property
+- [x] ~~user-select property~~
 
 ## Javascript
 
