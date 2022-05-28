@@ -72,6 +72,14 @@
   - [Blog](https://www.w3schools.com/howto/howto_css_loader.asp)
 - Using a random template to customize and design website.
 - Using third-party library in order to provide animations.
+- A button's `title` attribute is used to add the tooltip with title text to the button.
+- **AUDIO:**
+  - By deafult <audio> player has no visual representation and is invisible. Adding the `controls` attribute makes it visible.
+  - There are three supported audio formats in HTML: MP3, WAV, and OGG.
+  - For multiple sources, the first supported file type will play.
+- **VIDEO:**
+  - `<video>` element supports three different video formats: MP4, WebM, and OGG.
+  - The `<video>` element can also play audio files, but the `<audio>` tag provides a better user experience.
 
 ## CSS
 
@@ -105,13 +113,16 @@
   - [Blog](https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/)
 - Async vs differ
   - [Blog](https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/#use-async-or-defer)
+- Using **Paint-flash tool** in developer tools to measure performance.
+- Difference between `innerText` and `textContent`
+  - [Answer](https://stackoverflow.com/a/35213639/19090048)
 
 # To Do list
 
 ## HTML
 
-- [ ] Button `title` attribute.
-- [ ] More reading on `audio` and `video` tags.
+- [x] ~~Button `title` attribute.~~
+- [x] ~~More reading on `audio` and `video` tags.~~
 
 ## CSS
 
@@ -125,7 +136,7 @@
 
 ## Javascript
 
-- [ ] `innerText` vs `textContent`
+- [x] ~~`innerText` vs `textContent`~~
 - [ ] `classList`
 - [ ] `document.documentElement`
 - [ ] `children` property
