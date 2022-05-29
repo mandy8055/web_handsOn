@@ -61,6 +61,13 @@
 - **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/music-player/index.html)**
 - font: **[League Spartan](https://fonts.google.com/specimen/League+Spartan)**
 
+## PROJECT 9 (Custom Countdown with caching)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/custom-countdown/index.html)**
+- font: **[Nunito](https://fonts.google.com/specimen/Nunito?query=Nunito)**
+- Free Stock Videos - **[Pixabay](https://pixabay.com/videos/)**
+- Video Compressor - **[youcompress](https://www.youcompress.com/)**
+
 # Key Learnings
 
 ## HTML
@@ -80,6 +87,8 @@
 - **VIDEO:**
   - `<video>` element supports three different video formats: MP4, WebM, and OGG.
   - The `<video>` element can also play audio files, but the `<audio>` tag provides a better user experience.
+- **Best practices for form accessibility:**
+  - [Blog](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/forms/Basic_form_hints)
 
 ## CSS
 
@@ -98,6 +107,8 @@
 - Using `scroll-behavior` property to implement smooth scroll.
 - Making a custom toggle switch
   - [Blog](https://www.w3schools.com/howto/howto_css_switch.asp)
+- Animations in CSS
+  - [Blog](https://css-tricks.com/almanac/properties/a/animation/)
 
 ## Javascript
 
@@ -116,6 +127,10 @@
 - Using **Paint-flash tool** in developer tools to measure performance.
 - Difference between `innerText` and `textContent`
   - [Answer](https://stackoverflow.com/a/35213639/19090048)
+- Everthing you need to know about date.
+  - [Blog](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)
+  - [Intl API](https://www.freecodecamp.org/news/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834/)
+- Always try to maintain the type of a variable same throughout its lifetime. It'll really help in getting rid of multiple bugs that might arise in future and also help in better code readability.
 
 # To Do list
 
@@ -132,7 +147,9 @@
 - [ ] Animations is CSS.
 - [x] ~~CSS variables.~~
 - [ ] object-fit property
+- [ ] object-position property
 - [x] ~~user-select property~~
+- [ ] Positioning in CSS
 
 ## Javascript
 
@@ -141,3 +158,8 @@
 - [ ] `document.documentElement`
 - [ ] `children` property
 - [x] ~~async vs differ~~
+- [ ] More reading on `<input type='date'/>`
+- [ ] [submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+- [ ] [preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
+- [ ] [javascript timing events](https://www.w3schools.com/js/js_timing.asp)
+- [ ] `JSON.stringify()` and `JSON.parse()`
