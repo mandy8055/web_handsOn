@@ -68,6 +68,12 @@
 - Free Stock Videos - **[Pixabay](https://pixabay.com/videos/)**
 - Video Compressor - **[youcompress](https://www.youcompress.com/)**
 
+## PROJECT 10 (Book Keeper App with caching)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/book-keeper/index.html)**
+- font: **[Karla](https://fonts.google.com/specimen/Karla)**
+- **CODE REVIEW REQUIRED**
+
 # Key Learnings
 
 ## HTML
@@ -109,6 +115,7 @@
   - [Blog](https://www.w3schools.com/howto/howto_css_switch.asp)
 - Animations in CSS
   - [Blog](https://css-tricks.com/almanac/properties/a/animation/)
+- `flex-wrap` property is used to put the contents in different row(if `flex-direction: row`) if it overflows screen width.
 
 ## Javascript
 
@@ -150,6 +157,7 @@
 - [ ] object-position property
 - [x] ~~user-select property~~
 - [ ] Positioning in CSS
+- [ ] `user-select` property
 
 ## Javascript
 
@@ -163,3 +171,5 @@
 - [ ] [preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
 - [ ] [javascript timing events](https://www.w3schools.com/js/js_timing.asp)
 - [ ] `JSON.stringify()` and `JSON.parse()`
+- [ ] `document.createElement()`
+- [ ] [splice() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
