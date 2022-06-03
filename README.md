@@ -137,6 +137,7 @@
 - Everthing you need to know about date.
   - [Blog](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)
   - [Intl API](https://www.freecodecamp.org/news/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834/)
+  - [Moment.js library](https://momentjs.com/docs/#/parsing/unix-timestamp-milliseconds/)
 - Always try to maintain the type of a variable same throughout its lifetime. It'll really help in getting rid of multiple bugs that might arise in future and also help in better code readability.
 
 # To Do list
