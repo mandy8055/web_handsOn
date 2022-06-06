@@ -74,6 +74,11 @@
 - font: **[Karla](https://fonts.google.com/specimen/Karla)**
 - **CODE REVIEW REQUIRED**
 
+## PROJECT 11 (Video Player App)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/video-player/index.html)**
+- **CODE REVIEW REQUIRED**
+
 # Key Learnings
 
 ## HTML
@@ -95,6 +100,8 @@
   - The `<video>` element can also play audio files, but the `<audio>` tag provides a better user experience.
 - **Best practices for form accessibility:**
   - [Blog](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/forms/Basic_form_hints)
+- What does `playsinline` mean in video element?
+  - [Blog](https://css-tricks.com/what-does-playsinline-mean-in-web-video/)
 
 ## CSS
 
@@ -139,6 +146,10 @@
   - [Intl API](https://www.freecodecamp.org/news/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834/)
   - [Moment.js library](https://momentjs.com/docs/#/parsing/unix-timestamp-milliseconds/)
 - Always try to maintain the type of a variable same throughout its lifetime. It'll really help in getting rid of multiple bugs that might arise in future and also help in better code readability.
+- How to fullscreen?
+  - [Blog](https://www.w3schools.com/howto/howto_js_fullscreen.asp)
+- Browser Detection using User Agent
+  - [Blog](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 
 # To Do list
 
@@ -159,6 +170,7 @@
 - [x] ~~user-select property~~
 - [ ] Positioning in CSS
 - [ ] `user-select` property
+- [ ] [calc()](https://css-tricks.com/a-complete-guide-to-calc-in-css/)
 
 ## Javascript
 
@@ -168,9 +180,9 @@
 - [ ] `children` property
 - [x] ~~async vs differ~~
 - [ ] More reading on `<input type='date'/>`
-- [ ] [submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
-- [ ] [preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
-- [ ] [javascript timing events](https://www.w3schools.com/js/js_timing.asp)
-- [ ] `JSON.stringify()` and `JSON.parse()`
+- [x] ~~[submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)~~
+- [x] ~~[preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)~~
+- [x] ~~[javascript timing events](https://www.w3schools.com/js/js_timing.asp)~~
+- [x] ~~`JSON.stringify()` and `JSON.parse()`~~
 - [ ] `document.createElement()`
-- [ ] [splice() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+- [x] ~~[splice() function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)~~
