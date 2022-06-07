@@ -79,6 +79,13 @@
 - **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/video-player/index.html)**
 - **CODE REVIEW REQUIRED**
 
+## PROJECT 12 (Validated Form)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/form-validator/index.html)**
+- font: **[Sen](https://fonts.google.com/specimen/Sen)**
+- **TO ADD**: Responsive Design
+- **CODE REVIEW REQUIRED**
+
 # Key Learnings
 
 ## HTML
@@ -150,6 +157,8 @@
   - [Blog](https://www.w3schools.com/howto/howto_js_fullscreen.asp)
 - Browser Detection using User Agent
   - [Blog](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
+- Check validity inside Form using constraint_validation API.
+  - [DOCS](https://developer.mozilla.org/en-US/docs/Web/API/Constraint_validation)
 
 # To Do list
 
@@ -157,6 +166,8 @@
 
 - [x] ~~Button `title` attribute.~~
 - [x] ~~More reading on `audio` and `video` tags.~~
+- [ ] **[Brief about input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
+- [ ] `novalidate` as a form attribute.
 
 ## CSS
 
@@ -171,6 +182,7 @@
 - [ ] Positioning in CSS
 - [ ] `user-select` property
 - [ ] [calc()](https://css-tricks.com/a-complete-guide-to-calc-in-css/)
+- [ ] [valid pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
 
 ## Javascript
 
