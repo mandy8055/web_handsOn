@@ -86,6 +86,13 @@
 - **TO ADD**: Responsive Design
 - **CODE REVIEW REQUIRED**
 
+## PROJECT 13 (Spock Rock Game)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/spock-rock-game/index.html)**
+- font: **[Lato](https://fonts.google.com/specimen/Lato)**
+- API Info:
+  - **[confettiJS](https://www.cssscript.com/confetti-falling-animation/)**
+
 # Key Learnings
 
 ## HTML
@@ -159,6 +166,11 @@
   - [Blog](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 - Check validity inside Form using constraint_validation API.
   - [DOCS](https://developer.mozilla.org/en-US/docs/Web/API/Constraint_validation)
+- What is tree-shaking?
+- ES Module system
+  - [Github Gist](https://gist.github.com/branneman/558ef3a37ffd58ea004e00db5b201677)
+  - [Article](https://www.sitepoint.com/understanding-es6-modules-via-their-history/)
+  - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 # To Do list
 
@@ -168,6 +180,7 @@
 - [x] ~~More reading on `audio` and `video` tags.~~
 - [ ] **[Brief about input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
 - [ ] `novalidate` as a form attribute.
+- [ ] `onclick` attribute.
 
 ## CSS
 
