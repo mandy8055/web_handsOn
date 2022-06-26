@@ -93,6 +93,12 @@
 - API Info:
   - **[confettiJS](https://www.cssscript.com/confetti-falling-animation/)**
 
+## PROJECT 14 (Basic Calculator)
+
+- **[LIVE DEMO](https://mandy8055.github.io/web_handsOn/calculator/index.html)**
+- font: **Lucida Console**
+- Gradient: **[GradientsIO](https://uigradients.com/)**
+
 # Key Learnings
 
 ## HTML
@@ -137,6 +143,8 @@
 - Animations in CSS
   - [Blog](https://css-tricks.com/almanac/properties/a/animation/)
 - `flex-wrap` property is used to put the contents in different row(if `flex-direction: row`) if it overflows screen width.
+- Creating a custom scroll bar.
+  - [Blog](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
 
 ## Javascript
 
